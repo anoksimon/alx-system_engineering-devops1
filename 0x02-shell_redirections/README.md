@@ -1,1 +1,1 @@
-Shell Redirection
+echo "Shell redirection"
