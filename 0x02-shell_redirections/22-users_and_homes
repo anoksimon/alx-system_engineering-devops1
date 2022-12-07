@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --color=auto /etc, passwd
+ls --color=auto /etc/passwd
